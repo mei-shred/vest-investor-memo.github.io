@@ -23,7 +23,7 @@
 15. [DEMO](#demo)
 
 ## Problem
-Indian HENRY (High Earner, Not Rich Yet) investors lack access to sophisticated, personalized investment strategies. They want to create personal alpha based on unique insights while maintaining the stability of indices, but without paying high fees (2.5% upto 5% if including expense ratios) for professional management.
+Indian HENRY (High Earner, Not Rich Yet) investors lack access to sophisticated, personalized investment strategies. They want to create personal alpha based on unique market insights while maintaining the stability and diveristy of indices, but without paying high fees for professional management (2.5% upto 5% if including expense ratios).
 
 ## Solution
 VEST combines direct indexing, AI-powered customization, and fractional investing to enable retail investors to create and manage personalized portfolios like hedge funds.
