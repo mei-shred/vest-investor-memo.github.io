@@ -120,12 +120,12 @@ Our target customers are HENRY (High Earner, Not Rich Yet) investors in India:
 
 We're mainly competing with wealth managers rather than digtial brokerages but we will include both here.
 
-1.  **Wealth Management Startups (Wealthy, Dezerv)**
-   - High minimum investment requirements ($60k+)
-   - High Fee
-   - Professional service companies rather than Technology companies (A tech front end on a traditional wealth manager)
-   - Focuses on HNIs rather than HENRY customers
-   - VEST advantage: Lower entry barrier, lower fee,  advanced AI customization, direct indexing, HENRY focused.
+1. **Wealth Management Startups (Wealthy, Dezerv)**
+      - High minimum investment requirements ($60k+)
+      - High Fee
+      - Professional service companies rather than Technology companies (A tech front end on a traditional wealth manager)
+      - Focuses on HNIs rather than HENRY customers
+      - VEST advantage: Lower entry barrier, lower fee,  advanced AI customization, direct indexing, HENRY focused.
 
 2. **Smallcase - Closest Competitor**
    - Horizontal aggregator of Wealth Managers
