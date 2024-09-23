@@ -43,7 +43,7 @@ VEST combines direct indexing, AI-powered customization, and fractional investin
 - Advised by Ravi Gauba, founder of metacap global ($109M AUM)
 
 ## Traction
-- 1241 waitlist sign-ups
+- 1241 waitlist sign-ups in 28 Days
 - Pilot with 87 users
 - Partnerships Secured: 1. Brokerage for platform launch; 2. Wealth management firm for white glove services
 - Investment advisory license obtained
@@ -87,6 +87,9 @@ VEST combines direct indexing, AI-powered customization, and fractional investin
 4. **Network Effects in AI Performance**:
    As more users join and interact with the platform, the AI's ability to generate and optimize strategies improves, creating a flywheel of better performance and user attraction.
 
+5. **Automating TLH and Lack of Direct Indexing Saturation in India**:
+   No current competitor in India offers Automated Tax Loss Harvesting. Direct Indexing is a very relatively new phenomenon in India. India's lack of a wash sale rule makes the combination of these two incredibly effective at increasing returns over standard index ETFs.
+
 ## Ideal Customer Profile (ICP)
 
 Our target customers are HENRY (High Earner, Not Rich Yet) investors in India:
@@ -103,17 +106,19 @@ Our target customers are HENRY (High Earner, Not Rich Yet) investors in India:
   - Open to AI Driven Solutions 
 
 ## Competitive Advantage
-1. AI-powered customization and strategy generation
-2. Significantly lower fees than traditional wealth management
-3. Fractional access to high-minimum investment vehicles
-4. Direct ownership of securities for tax efficiency
+1. AI-powered customization and strategy generation. 
+2. Significantly lower fees than traditional wealth management. Over 5 years will lead to a saving of ~12% over traditional funds for consumers
+3. Access to high-minimum investment vehicles
+4. Direct ownership of securities for tax efficiency. Automated Tax Loss Harvesting (Not Offered By Any Competitor Yet)
 5. Team's experience in building scalable fintech solutions
 
 ## Why Now?
-1. Gen AI capabilities enabling sophisticated portfolio management
+1. Gen AI capabilities enabling sophisticated portfolio management without the need for Humans.
 2. Exponential growth in retail investors and average investment amounts in India
+   - Grew from 40 to 151 Million Investing Accounts in 4 years; 51 million added last year. This is still 10% peneteration.
+   - HENRY Investors growing at 3x the average rate. 
 3. Shift towards direct investing (46% since 2015)
-4. Regulatory changes (SEBI circular on brokerage fees)
+4. Regulatory changes (SEBI circular on brokerage fees) disrupting zero brokerage models introducing more customers.
 
 ## Funding Needs
 Capital required to:
