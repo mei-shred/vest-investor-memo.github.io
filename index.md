@@ -184,4 +184,6 @@ Capital required to:
 Transform every retail investor in India into their own hedge fund manager, democratizing institutional-grade investing strategies through AI-powered personalization and cost-effective solutions.
 
 ## DEMO 
-[]()
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/y4kGpKyCX_s/0.jpg)](https://www.youtube.com/watch?v=y4kGpKyCX_s)
+
