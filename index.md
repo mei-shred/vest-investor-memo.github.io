@@ -1,5 +1,27 @@
 # VEST: AI-Powered Custom Portfolios Via Direct Indexing for India
 
+## Table of Contents
+
+1. [Problem](#problem)
+2. [Solution](#solution)
+   - [How It Works](#how-it-works)
+   - [Key Features](#key-features)
+3. [Team](#team)
+4. [Traction](#traction)
+5. [Market](#market)
+   - [Business Model](#business-model)
+   - [Bottom-up Market Sizing](#bottom-up-market-sizing)
+6. [Unique Insights](#unique-insights)
+7. [Ideal Customer Profile (ICP)](#ideal-customer-profile-icp)
+8. [Early Distribution/GTM Strategy](#early-distributiongtm-strategy)
+9. [Competitive Advantage](#competitive-advantage)
+10. [Competitor Analysis](#competitor-analysis)
+11. [Why Now?](#why-now)
+12. [VEST's path to $100 billion](#vests-path-to-100-billion)
+13. [Funding Needs](#funding-needs)
+14. [Vision](#vision)
+15. [DEMO](#demo)
+
 ## Problem
 Indian HENRY (High Earner, Not Rich Yet) investors lack access to sophisticated, personalized investment strategies. They want to create personal alpha based on unique insights while maintaining the stability of indices, but without paying high fees (2.5% upto 5% if including expense ratios) for professional management.
 
