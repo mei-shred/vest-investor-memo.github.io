@@ -103,7 +103,11 @@ Our target customers are HENRY (High Earner, Not Rich Yet) investors in India:
   - Price-sensitive
   - Interested in financial markets but lack time for active management
   - Ambitious and career-focused
-  - Open to AI Driven Solutions 
+  - Open to AI Driven Solutions
+ 
+## Early Distribution/GTM Strategy
+1. We are partnering with Start-Ups/Corporations to offer our platform as a perk to their employees. They pay upto x% of the fee on the employees behalf. (21 Firms have agreed to partner)
+2. We are well embedded in the Indian Personal Finance group chats on whatsapp and telegram. Regular posters on reddit India Personal Finance and FIRE sibreddits and India Fintwit twitter as an Anon advisor account (24k followers). Using these channels for organic acquisition and word of mouth growth. 
 
 ## Competitive Advantage
 1. AI-powered customization and strategy generation. 
@@ -111,6 +115,43 @@ Our target customers are HENRY (High Earner, Not Rich Yet) investors in India:
 3. Access to high-minimum investment vehicles
 4. Direct ownership of securities for tax efficiency. Automated Tax Loss Harvesting (Not Offered By Any Competitor Yet)
 5. Team's experience in building scalable fintech solutions
+
+## Competitor Analysis
+
+We're mainly competing with wealth managers rather than digtial brokerages but we will include both here.
+
+1.  **Wealth Management Startups (Wealthy, Dezerv)**
+   - High minimum investment requirements ($60k+)
+   - High Fee
+   - Professional service companies rather than Technology companies (A tech front end on a traditional wealth manager)
+   - Focuses on HNIs rather than HENRY customers
+   - VEST advantage: Lower entry barrier, lower fee,  advanced AI customization, direct indexing, HENRY focused.
+
+2. **Smallcase - Closest Competitor**
+   - Horizontal aggregator of Wealth Managers
+   - No flexibility and control. Smallcase are managed by professionals. They decide to rebalance and general strategy. On VEST 24/7 availability of AI to customize strategy and rebalance or change tilt whenever you want. 
+   - Portfolios aren't uniquely built for users. Users lose out on personal alpha. 
+   - Similar high fee structure to generic wealth managers.(On top of a recurring subsription fee)
+   - No tax-loss harvesting. No AI Usage. 
+   - Don’t function as a brokerage, you link to your existing brokerage. Affiliate fee model.
+   - Different end goals/vision: 
+      - We want retail investors to operate as hedge funds. Our goal is to provide tools and intelligence for them to personalize their strategy. 
+      - Smallcase wants to be a special investment vehicle. The rely on experts providing intelligence. 
+   - VEST advantage: Full customization, lower fees, automated tax-loss harvesting
+
+3. **Traditional Mutual Funds (HDFC, ICICI, SBI Mutual Funds)**
+   - High fees (2-2.5% expense ratio)
+   - Lack of personalization - Can't tilt according to insights. 
+   - Not Tax Effecient
+   - VEST advantage: Lower fees, AI-powered customization, direct indexing, Automated TLH
+
+4. **Robo-advisors and Brokerages (Groww, Zerodha Coin, Paytm Money)**
+   - No customization
+   - No access to premium vehicles
+   - Not wealth managers
+   - No automated TLH or Direct Indexing. 
+   - No Integration of AI yet.
+   - VEST advantage: Advanced AI customization, access to Premuim vehicles, superior tax optimization
 
 ## Why Now?
 1. Gen AI capabilities enabling sophisticated portfolio management without the need for Humans.
@@ -120,11 +161,24 @@ Our target customers are HENRY (High Earner, Not Rich Yet) investors in India:
 3. Shift towards direct investing (46% since 2015)
 4. Regulatory changes (SEBI circular on brokerage fees) disrupting zero brokerage models introducing more customers.
 
+## VEST's path to $100 billion
+1. Growth of Indian market
+   - Expected hockey stick growth in 2027 in Investor Accounts according to SEBI (SEC for India)
+   - Grew from 40 to 151 Million Investing Accounts in 4 years; 51 million added last year. This is still 10% peneteration.
+   - Financial advisors are High cost, low accessibility. AMFI survey suggests 40% more investors would use advisors if costs were lowered and they were more readily accessible. 
+   - Expected to Overtake Japan and Germany by FY27. Grows at 3x the US. 
+2. AI becomes better and cheaper
+   - Replace Financial Advisors with an omnipresent 24/7 AI to build portfolios with marginal costs trending to zero.
+   - Change investing paradigm by allowing retail investors to run complex automated strategies
+   - Build the smartest financil AI with built in consumer network effects. 
+   - Become De facto platform for Indian HNI/UHNI Investing
+
 ## Funding Needs
 Capital required to:
-1. Go live with full platform (est. 2-4 weeks post-investment)
-2. Complete UI/UX redesign
-3. Achieve feature parity with competitors
+1. Regulatory compliance to go live with full platform (Required $240k)
+2. UI/UX redesign
+3. Double down on early distribution advantage
+4. Hire an incredible team that we have already curated
 
 ## Vision
 Transform every retail investor in India into their own hedge fund manager, democratizing institutional-grade investing strategies through AI-powered personalization and cost-effective solutions.
