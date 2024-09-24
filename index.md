@@ -23,7 +23,7 @@
 15. [Demo](#demo)
 
 ## Problem
-Indian HENRY (High Earner, Not Rich Yet) investors lack access to sophisticated, personalized investment strategies. They want to create personal alpha based on unique market insights while maintaining the stability and diversity of indices, but without paying high fees for professional management (2.5% upto 5% if including expense ratios).
+Indian HENRY (High Earner, Not Rich Yet) investors lack access to sophisticated, personalized investment strategies. They want to create personal alpha based on unique market insights while maintaining the stability and diversity of indices, but without paying high fees for professional management (2.5% up to 5% if including expense ratios).
 
 ## Solution
 VEST combines direct indexing, AI-powered customization, and fractional investing to enable retail investors to create and manage personalized portfolios like hedge funds.
@@ -59,10 +59,10 @@ VEST combines direct indexing, AI-powered customization, and fractional investin
 - No exit loads
 
 ## Team
-- Renasha Mishra (CEO): Stanford CS, ex-CTO Magic (YC S22), ex-Microsoft SWE, ex-CEO Mei(Acq Aug 2024)
-- Sumay Mishra (CTO): Cornell CS, ex-founding engineer Magic (YC S22), ex-CTO Mei(Acq 2024)
+- Renasha Mishra (CEO): Stanford CS, ex-CTO Magic (YC S22), ex-Microsoft SWE, ex-CEO Mei (Acq Aug 2024)
+- Sumay Mishra (CTO): Cornell CS, ex-founding engineer Magic (YC S22), ex-CTO Mei (Acq 2024)
 - Previously built and sold two fintech startups in India
-- Advised by Ravi Gauba, founder of metacap global ($109M AUM)
+- Advised by Ravi Gauba, founder of Metacap Global ($109M AUM)
 
 ## Traction
 - 1241 waitlist sign-ups in 28 Days
@@ -110,13 +110,13 @@ VEST combines direct indexing, AI-powered customization, and fractional investin
    As more users join and interact with the platform, the AI's ability to generate and optimize strategies improves, creating a flywheel of better performance and user attraction.
 
 5. **Automating TLH and Lack of Direct Indexing Saturation in India**:
-   No current competitor in India offers Automated Tax Loss Harvesting. Direct Indexing is a relatively new phenomenon in India. India's lack of a wash sale rule makes the combination of these two incredibly effective at increasing returns over standard index ETFs.
+   No current competitor in India offers automated tax loss harvesting. Direct indexing is a relatively new phenomenon in India. India's lack of a wash sale rule makes the combination of these two incredibly effective at increasing returns over standard index ETFs.
 
 ## Ideal Customer Profile (ICP)
 
 Our target customers are HENRY (High Earner, Not Rich Yet) investors in India:
 
-- Early to Mid level Employees at High Income Employers (Start-Ups, Big Tech, Finance, Consulting etc) 
+- Early to mid level Employees at high income employers (Start-Ups, Big Tech, Finance, Consulting etc) 
 - Income: Currently in the $12,000 - $70,000 per annum bracket
 - Portfolio size: Currently $6,000 - $12,000, rapidly growing
 - Location: Urban centers (Delhi NCR, Mumbai, Bangalore)
@@ -128,9 +128,9 @@ Our target customers are HENRY (High Earner, Not Rich Yet) investors in India:
   - Open to AI Driven Solutions
  
 ## Early Distribution/GTM Strategy
-1. We are partnering with Start-Ups/Corporations to offer our platform as a perk to their employees. They pay upto x% of the fee on the employee's behalf. (21 Firms have agreed to partner)
+1. We are partnering with Start-Ups/Corporations to offer our platform as a perk to their employees. They pay upto x% of the fee on the employee's behalf. (21 companies have agreed to partner)
 
-2. We are well embedded in the Indian personal finance group chats on whatsapp and telegram. Regular posters on reddit India personal finance and FIRE subreddits, along with an Anon advisor account on India Fintwit twitter (24k followers). We are using these channels for organic acquisition and word of mouth growth. 
+2. We are well embedded in the Indian personal finance group chats on Whatsapp and Telegram. Regular posters on Reddit India personal finance and FIRE subreddits, along with an Anon advisor account on India fintwit Twitter (24k followers). We are using these channels for organic acquisition and word of mouth growth. 
 
 ## Competitive Advantage
 1. AI-powered customization and strategy generation. 
@@ -153,12 +153,12 @@ We're mainly competing with wealth managers rather than digtial brokerages but w
    - Horizontal aggregator of Wealth Managers who offer thematic stock baskets.
    - No flexibility and control. Smallcases are managed by professionals. They decide general strategy, rebalancing and allocation. On VEST 24/7 availability of AI to customize strategy and rebalance or change tilt whenever you want. 
    - Portfolios aren't uniquely built for each individual user. Users lose out on personal alpha. 
-   - Similar high fee structure to generic wealth managers.(On top of a recurring subscription fee)
+   - Similar high fee structure to generic wealth managers (On top of a recurring subscription fee)
    - No tax-loss harvesting. No AI Usage. 
    - Don’t function as a brokerage, you link to your existing brokerage. Affiliate fee model.
    - Different end goals/vision: 
       - We want retail investors to operate as hedge funds. Our goal is to provide tools and intelligence for them to personalize their strategy. 
-      - Smallcase wants to be a special investment vehicle. The rely on experts providing intelligence. 
+      - Smallcase wants to be a special investment vehicle. They rely on experts providing intelligence. 
 
 3. **Traditional Mutual Funds (HDFC, ICICI, SBI Mutual Funds)**
    - High fees (2-2.5% expense ratio)
@@ -175,7 +175,7 @@ We're mainly competing with wealth managers rather than digtial brokerages but w
 ## Why Now?
 1. Gen AI capabilities enable sophisticated portfolio management without the need for Humans.
 2. Exponential growth in retail investors and average investment amounts in India
-   - Grew from 40 to 151 million investing accounts in 4 years; 51 million added last year. This is still only 10% peneteration.
+   - Grew from 40 to 151 million investing accounts in 4 years; 51 million added last year. This is still only 10% penetration.
    - HENRY Investors growing at 3x the average rate. 
 3. Shift towards direct code investing (46% since 2015)
 4. Regulatory changes (SEBI circular on brokerage fees) disrupting zero cost brokerage models.
@@ -183,7 +183,7 @@ We're mainly competing with wealth managers rather than digtial brokerages but w
 ## VEST's path to $100 billion
 1. **Growth of Indian market**
    - Expected hockey stick growth in 2027 according to SEBI (SEC equivalent for India)
-   - Increase from 40 to 151 million investement accounts in 4 years; 51 million added last year. This is still 10% peneteration.
+   - Increase from 40 to 151 million investment accounts in 4 years; 51 million added last year. This is still 10% penetration.
    - Financial advisors are high cost, low accessibility. AMFI survey suggests ~40% more investors would use advisors if costs were lowered and they were more readily accessible. 
    - Expected to Overtake Japan and Germany by FY28. Grows at 3x the US. 
 2. **AI becomes better and cheaper**
