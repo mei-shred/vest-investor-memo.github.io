@@ -110,7 +110,7 @@ VEST combines direct indexing, AI-powered customization, and fractional investin
    As more users join and interact with the platform, the AI's ability to generate and optimize strategies improves, creating a flywheel of better performance and user attraction.
 
 5. **Automating TLH and Lack of Direct Indexing Saturation in India**:
-   No current competitor in India offers Automated Tax Loss Harvesting. Direct Indexing is a very relatively new phenomenon in India. India's lack of a wash sale rule makes the combination of these two incredibly effective at increasing returns over standard index ETFs.
+   No current competitor in India offers Automated Tax Loss Harvesting. Direct Indexing is a relatively new phenomenon in India. India's lack of a wash sale rule makes the combination of these two incredibly effective at increasing returns over standard index ETFs.
 
 ## Ideal Customer Profile (ICP)
 
@@ -128,8 +128,8 @@ Our target customers are HENRY (High Earner, Not Rich Yet) investors in India:
   - Open to AI Driven Solutions
  
 ## Early Distribution/GTM Strategy
-1. We are partnering with Start-Ups/Corporations to offer our platform as a perk to their employees. They pay upto x% of the fee on the employees behalf. (21 Firms have agreed to partner)
-2. We are well embedded in the Indian Personal Finance group chats on whatsapp and telegram. Regular posters on reddit India Personal Finance and FIRE sibreddits and India Fintwit twitter as an Anon advisor account (24k followers). Using these channels for organic acquisition and word of mouth growth. 
+1. We are partnering with Start-Ups/Corporations to offer our platform as a perk to their employees. They pay upto x% of the fee on the employee's behalf. (21 Firms have agreed to partner)
+2. We are well embedded in the Indian personal finance group chats on whatsapp and telegram. Regular posters on reddit India personal finance and FIRE subreddits, along with an Anon advisor account on India Fintwit twitter (24k followers). We are using these channels for organic acquisition and word of mouth growth. 
 
 ## Competitive Advantage
 1. AI-powered customization and strategy generation. 
@@ -147,25 +147,23 @@ We're mainly competing with wealth managers rather than digtial brokerages but w
       - High Fee
       - Professional service companies rather than Technology companies (A tech front end on a traditional wealth manager)
       - Focuses on HNIs rather than HENRY customers
-      - VEST advantage: Lower entry barrier, lower fee,  advanced AI customization, direct indexing, HENRY focused.
 
 2. **Smallcase - Closest Competitor**
-   - Horizontal aggregator of Wealth Managers
-   - No flexibility and control. Smallcase are managed by professionals. They decide to rebalance and general strategy. On VEST 24/7 availability of AI to customize strategy and rebalance or change tilt whenever you want. 
-   - Portfolios aren't uniquely built for users. Users lose out on personal alpha. 
-   - Similar high fee structure to generic wealth managers.(On top of a recurring subsription fee)
+   - Horizontal aggregator of Wealth Managers who offer thematic stock baskets.
+   - No flexibility and control. Smallcases are managed by professionals. They decide general strategy, rebalancing and allocation. On VEST 24/7 availability of AI to customize strategy and rebalance or change tilt whenever you want. 
+   - Portfolios aren't uniquely built for each individual user. Users lose out on personal alpha. 
+   - Similar high fee structure to generic wealth managers.(On top of a recurring subscription fee)
    - No tax-loss harvesting. No AI Usage. 
    - Don’t function as a brokerage, you link to your existing brokerage. Affiliate fee model.
    - Different end goals/vision: 
       - We want retail investors to operate as hedge funds. Our goal is to provide tools and intelligence for them to personalize their strategy. 
       - Smallcase wants to be a special investment vehicle. The rely on experts providing intelligence. 
-   - VEST advantage: Full customization, lower fees, automated tax-loss harvesting
 
 3. **Traditional Mutual Funds (HDFC, ICICI, SBI Mutual Funds)**
    - High fees (2-2.5% expense ratio)
    - Lack of personalization - Can't tilt according to insights. 
    - Not Tax Effecient
-   - VEST advantage: Lower fees, AI-powered customization, direct indexing, Automated TLH
+
 
 4. **Robo-advisors and Brokerages (Groww, Zerodha Coin, Paytm Money)**
    - No customization
@@ -173,7 +171,6 @@ We're mainly competing with wealth managers rather than digtial brokerages but w
    - Not wealth managers
    - No automated TLH or Direct Indexing. 
    - No Integration of AI yet.
-   - VEST advantage: Advanced AI customization, access to Premuim vehicles, superior tax optimization
 
 ## Why Now?
 1. Gen AI capabilities enabling sophisticated portfolio management without the need for Humans.
