@@ -20,7 +20,7 @@
 12. [VEST's path to $100 billion](#vests-path-to-100-billion)
 13. [Funding Needs](#funding-needs)
 14. [Vision](#vision)
-15. [DEMO](#demo)
+15. [Demo](#demo)
 
 ## Problem
 Indian HENRY (High Earner, Not Rich Yet) investors lack access to sophisticated, personalized investment strategies. They want to create personal alpha based on unique market insights while maintaining the stability and diveristy of indices, but without paying high fees for professional management (2.5% upto 5% if including expense ratios).
@@ -202,7 +202,7 @@ Capital required for:
 ## Vision
 Transform every retail investor in India into their own hedge fund, democratizing institutional-grade investing strategies through AI-powered personalization and cost-effective solutions.
 
-## DEMO 
+## Demo 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/y4kGpKyCX_s/0.jpg)](https://www.youtube.com/watch?v=y4kGpKyCX_s)
 
