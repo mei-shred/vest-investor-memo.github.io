@@ -129,6 +129,7 @@ Our target customers are HENRY (High Earner, Not Rich Yet) investors in India:
  
 ## Early Distribution/GTM Strategy
 1. We are partnering with Start-Ups/Corporations to offer our platform as a perk to their employees. They pay upto x% of the fee on the employee's behalf. (21 Firms have agreed to partner)
+
 2. We are well embedded in the Indian personal finance group chats on whatsapp and telegram. Regular posters on reddit India personal finance and FIRE subreddits, along with an Anon advisor account on India Fintwit twitter (24k followers). We are using these channels for organic acquisition and word of mouth growth. 
 
 ## Competitive Advantage
@@ -164,7 +165,6 @@ We're mainly competing with wealth managers rather than digtial brokerages but w
    - Lack of personalization - Can't tilt according to insights. 
    - Not Tax Effecient
 
-
 4. **Robo-advisors and Brokerages (Groww, Zerodha Coin, Paytm Money)**
    - No customization
    - No access to premium vehicles
@@ -181,12 +181,12 @@ We're mainly competing with wealth managers rather than digtial brokerages but w
 4. Regulatory changes (SEBI circular on brokerage fees) disrupting zero cost brokerage models.
 
 ## VEST's path to $100 billion
-1. Growth of Indian market
+1. **Growth of Indian market**
    - Expected hockey stick growth in 2027 according to SEBI (SEC equivalent for India)
    - Increase from 40 to 151 million investement accounts in 4 years; 51 million added last year. This is still 10% peneteration.
    - Financial advisors are high cost, low accessibility. AMFI survey suggests ~40% more investors would use advisors if costs were lowered and they were more readily accessible. 
    - Expected to Overtake Japan and Germany by FY28. Grows at 3x the US. 
-2. AI becomes better and cheaper
+2. **AI becomes better and cheaper**
    - Replace Financial Advisors with an omnipresent 24/7 AI to build portfolios with marginal costs trending to zero.
    - Change investing paradigm by allowing retail investors to run complex automated strategies
    - Build the smartest financial LLM with built in consumer network effects. 
