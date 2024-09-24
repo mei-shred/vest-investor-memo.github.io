@@ -141,7 +141,7 @@ Our target customers are HENRY (High Earner, Not Rich Yet) investors in India:
 
 ## Competitor Analysis
 
-We're mainly competing with wealth managers rather than digtial brokerages but we will include both here.
+We're mainly competing with wealth managers rather than digital brokerages but we will include both here.
 
 1. **Wealth Management Startups (Wealthy, Dezerv)**
       - High minimum investment requirements ($60k+)
@@ -163,7 +163,7 @@ We're mainly competing with wealth managers rather than digtial brokerages but w
 3. **Traditional Mutual Funds (HDFC, ICICI, SBI Mutual Funds)**
    - High fees (2-2.5% expense ratio)
    - Lack of personalization - Can't tilt according to insights. 
-   - Not Tax Effecient
+   - Not Tax Efficient
 
 4. **Robo-advisors and Brokerages (Groww, Zerodha Coin, Paytm Money)**
    - No customization
