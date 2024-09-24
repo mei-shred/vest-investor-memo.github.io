@@ -135,7 +135,7 @@ Our target customers are HENRY (High Earner, Not Rich Yet) investors in India:
 1. AI-powered customization and strategy generation. 
 2. Significantly lower fees than traditional wealth management. Over 5 years will lead to a saving of ~12% over traditional funds for consumers
 3. Access to high-minimum investment vehicles
-4. Direct ownership of securities for tax efficiency. Automated Tax Loss Harvesting (Not Offered By Any Competitor Yet)
+4. Direct ownership of securities for tax efficiency, with automated tax loss harvesting.
 5. Team's experience in building scalable fintech solutions
 
 ## Competitor Analysis
