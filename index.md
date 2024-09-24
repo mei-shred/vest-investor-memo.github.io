@@ -173,34 +173,34 @@ We're mainly competing with wealth managers rather than digtial brokerages but w
    - No Integration of AI yet.
 
 ## Why Now?
-1. Gen AI capabilities enabling sophisticated portfolio management without the need for Humans.
+1. Gen AI capabilities enable sophisticated portfolio management without the need for Humans.
 2. Exponential growth in retail investors and average investment amounts in India
-   - Grew from 40 to 151 Million Investing Accounts in 4 years; 51 million added last year. This is still 10% peneteration.
+   - Grew from 40 to 151 million investing accounts in 4 years; 51 million added last year. This is still only 10% peneteration.
    - HENRY Investors growing at 3x the average rate. 
-3. Shift towards direct investing (46% since 2015)
-4. Regulatory changes (SEBI circular on brokerage fees) disrupting zero brokerage models introducing more customers.
+3. Shift towards direct code investing (46% since 2015)
+4. Regulatory changes (SEBI circular on brokerage fees) disrupting zero cost brokerage models.
 
 ## VEST's path to $100 billion
 1. Growth of Indian market
-   - Expected hockey stick growth in 2027 in Investor Accounts according to SEBI (SEC for India)
-   - Grew from 40 to 151 Million Investing Accounts in 4 years; 51 million added last year. This is still 10% peneteration.
-   - Financial advisors are High cost, low accessibility. AMFI survey suggests 40% more investors would use advisors if costs were lowered and they were more readily accessible. 
-   - Expected to Overtake Japan and Germany by FY27. Grows at 3x the US. 
+   - Expected hockey stick growth in 2027 according to SEBI (SEC equivalent for India)
+   - Increase from 40 to 151 million investement accounts in 4 years; 51 million added last year. This is still 10% peneteration.
+   - Financial advisors are high cost, low accessibility. AMFI survey suggests ~40% more investors would use advisors if costs were lowered and they were more readily accessible. 
+   - Expected to Overtake Japan and Germany by FY28. Grows at 3x the US. 
 2. AI becomes better and cheaper
    - Replace Financial Advisors with an omnipresent 24/7 AI to build portfolios with marginal costs trending to zero.
    - Change investing paradigm by allowing retail investors to run complex automated strategies
-   - Build the smartest financil AI with built in consumer network effects. 
-   - Become De facto platform for Indian HNI/UHNI Investing
+   - Build the smartest financial LLM with built in consumer network effects. 
+   - Become De facto platform for Indian HNI/UHNI investing as HENRY investors get richer.
 
 ## Funding Needs
-Capital required to:
-1. Regulatory compliance to go live with full platform (Required $240k)
+Capital required for:
+1. Regulatory compliance to go live (Required $240k)
 2. UI/UX redesign
 3. Double down on early distribution advantage
 4. Hire an incredible team that we have already curated
 
 ## Vision
-Transform every retail investor in India into their own hedge fund manager, democratizing institutional-grade investing strategies through AI-powered personalization and cost-effective solutions.
+Transform every retail investor in India into their own hedge fund, democratizing institutional-grade investing strategies through AI-powered personalization and cost-effective solutions.
 
 ## DEMO 
 
